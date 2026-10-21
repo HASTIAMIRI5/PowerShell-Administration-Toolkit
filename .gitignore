@@ -1,0 +1,18 @@
+# .gitignore
+
+# PowerShell and editor metadata
+*.pssproj
+*.psm1
+*.psd1
+*.ps1xml
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Common developer folders
+.vscode/
+.idea/
+obj/
+bin/
